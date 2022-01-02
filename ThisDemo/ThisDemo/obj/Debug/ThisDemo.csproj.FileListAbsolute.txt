@@ -1,0 +1,7 @@
+C:\Users\nikit\OneDrive\Desktop\ThisDemo\ThisDemo\bin\Debug\ThisDemo.exe.config
+C:\Users\nikit\OneDrive\Desktop\ThisDemo\ThisDemo\bin\Debug\ThisDemo.exe
+C:\Users\nikit\OneDrive\Desktop\ThisDemo\ThisDemo\bin\Debug\ThisDemo.pdb
+C:\Users\nikit\OneDrive\Desktop\ThisDemo\ThisDemo\obj\Debug\ThisDemo.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Desktop\ThisDemo\ThisDemo\obj\Debug\ThisDemo.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Desktop\ThisDemo\ThisDemo\obj\Debug\ThisDemo.exe
+C:\Users\nikit\OneDrive\Desktop\ThisDemo\ThisDemo\obj\Debug\ThisDemo.pdb
